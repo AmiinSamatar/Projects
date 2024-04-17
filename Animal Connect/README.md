@@ -1,4 +1,4 @@
-# CS467 Online Capstone - AI Coder
+
 Welcome to our Animal Connect App, where love knows no bounds! 🐾
 
 🌟 Discover Furry Friends: Swipe through adorable profiles of lovable animals waiting for their
